@@ -1,4 +1,4 @@
-## Flmae Fighters
+## Flame Fighters
 Flame Fighters is an advanced fire detection and suppression system designed to enhance safety through real-time monitoring and adaptive response mechanisms. Equipped with gas and temperature sensors, this system utilizes fuzzy logic algorithms to control fans and water pumps, ensuring precise regulation based on current environmental conditions. It seamlessly integrates with existing fire suppression systems to provide automatic activation in response to detected fire risks.
 
 ## Features
